@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "CNC WOOD ROUTER HAS A",
+      "answers": {
+        "a": "1 Axis",
+        "b": "2 Axis",
+        "c": "3 Axis",
+        "d": "4 Axis"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "MATERIAL USED FOR MILLING ON CNC WOOD ROUTER MACHINE IS",
+      "answers": {
+        "a": "Wood",
+        "b": "Plastic",
+        "c": "Metal",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "FOR THROUGH PROFILE CUTTING OPERATION IN CNC WOOD ROUTER WHICH CUTTER IS PREFERABLE ?",
+      "answers": {
+        "a": "Flat end mill Cutter",
+        "b": "Ball Nose end mill cutter",
+        "c": "V-Carve",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "END MILLING CUTTER HAS CUTTING EDGES ON",
+      "answers": {
+        "a": "Side & bottom of the cutter",
+        "b": "Only side of the cutter",
+        "c": "Side & top of cutter",
+        "d": "only at the bottom"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PROPER STEP OVER FOR END MILL CUTTER MUST BE",
+      "answers": {
+        "a": "Greater than 50% of tool diameter",
+        "b": "Less than 50% of tool diameter",
+        "c": "Irrespective of tool diameter",
+        "d": "Can't say"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
