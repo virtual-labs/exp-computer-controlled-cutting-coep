@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "CNC WOOD ROUTER HAS A",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1 Axis",
+        "b": "2 Axis",
+        "c": "3 Axis",
+        "d": "4 Axis"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "MATERIAL USED FOR MILLING ON CNC WOOD ROUTER MACHINE IS",
+      "answers": {
+        "a": "Wood",
+        "b": "Plastic",
+        "c": "Metal",
+        "d": "All of the above"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "FOR THROUGH PROFILE CUTTING OPERATION IN CNC WOOD ROUTER WHICH CUTTER IS PREFERABLE ?",
+      "answers": {
+        "a": "Flat end mill Cutter",
+        "b": "Ball Nose end mill cutter",
+        "c": "V-Carve",
+        "d": "All of the above"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "END MILLING CUTTER HAS CUTTING EDGES ON",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Side & bottom of the cutter",
+        "b": "Only side of the cutter",
+        "c": "Side & top of cutter",
+        "d": "only at the bottom"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PROPER STEP OVER FOR END MILL CUTTER MUST BE",
+      "answers": {
+        "a": "Greater than 50% of tool diameter",
+        "b": "Less than 50% of tool diameter",
+        "c": "Irrespective of tool diameter",
+        "d": "Can't say"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
