@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "THE PROCESS IN WHICH, REMOVAL OF MATERIAL IN THE FORM OF CHIP FROM THE WORKPIECE IS CALLED",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Machining Process",
+        "b": "Welding Process",
+        "c": "Forming Process",
+        "d": "Joining Process"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "TO ACHIEVE A DESIRE GEOMETRY SHAPE OF THE WORKPIECE, THE MACHINE TOOL HAS",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To control the workpiece-cutting tool positional relationship",
+        "b": "To provide relative motion between tool and workpiece",
+        "c": "To provide appropriate cutting speed and feed",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "DATA PROCESSING UNIT (DPU) IS A PART OF",
+      "answers": {
+        "a": "Control Loop unit",
+        "b": "Machine Control unit",
+        "c": "Process Function Unit",
+        "d": "Digital print unit"
       },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IN CASE OF POINT TO POINT (PTP) MOTION IN NC MACHINE TOOL",
+      "answers": {
+        "a": "The motion remain continue and the task is performed",
+        "b": "The motion does not stopped and the task is not performed",
+        "c": "The motion is stopped and the task is performed",
+        "d": "The motion is stopped and task is not performed"
+      },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "WOOD CNC ROUTER ARE DIFFERENT THAN CNC METAL CUTTING MACHINES BY",
+      "answers": {
+        "a": "The CNC wood router typically spins faster",
+        "b": "The CNC wood router is a low end hobby grade machines typically uses smaller tool",
+        "c": "The CNC wood router is preferred for non metal",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
