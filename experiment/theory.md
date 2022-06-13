@@ -195,7 +195,7 @@ A CNC wood router uses CNC (computer numerical control) and is similar to a meta
 
 <center><img src="images/img13.jpg" title="" /></center>
 <center><img src="images/img14.jpg" title="" /></center>
-[<img src="images/youtube1.JPG"](https://www.youtube.com/embed/jCG9GOJWT2I)
+[Youtube Reference Link - https://www.youtube.com/embed/jCG9GOJWT2I](https://www.youtube.com/embed/jCG9GOJWT2I)
 
 Machines capable of routing heavy material at many hundreds of inches per minute are common. 
 Some machines use smaller tool holders MK2 (Morse taper #2 - on older machines), ISO-30, HSK-63 or the tools just get held in a collet tool holder affixed directly to the spindle nose. ISO-30 and HSK-63 are rapid-change tool holding systems. HSK-63 has begun to supplant the ISO-30 as the rapid change standard in recent years.
@@ -223,4 +223,6 @@ The wood router typically has 6"-10" air ducts to suck up the wood chips/dust cr
 
 **INSTRUMENTS** - Luthiers of all disciplines can now supplement their traditional woodworking tools with CNC routers. While the CNC may not duplicate all of the specialized processes involved in instrument making, it brings new capabilities that can transform an ordinary shop to an extraordinary one.
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/xdtkyjWO4rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Youtube Reference Link - https://www.youtube.com/embed/jCG9GOJWT2I](https://www.youtube.com/embed/xdtkyjWO4rE)
+
+
