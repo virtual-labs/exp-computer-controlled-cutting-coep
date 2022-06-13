@@ -18,7 +18,8 @@ Machine tool provides:
 * Primary motion -cutting motion & cutting speed.
 * secondary motion-feed motion and feed rate
 
-**CLASSIFICATION OF MACHINE TOOLS **
+**CLASSIFICATION OF MACHINE TOOLS**
+
 |single point cutting tools 	|    multipoint cutting tools 	|    abrasive tools |
 |----|----|----|
 |  Lathe machines 	   | 	Drilling machines 	  |  	Grinding machines|
@@ -194,10 +195,10 @@ A CNC wood router uses CNC (computer numerical control) and is similar to a meta
 
 <center><img src="images/img13.jpg" title="" /></center>
 <center><img src="images/img14.jpg" title="" /></center>
-<iframe width="640" height="390" src="https://www.youtube.com/embed/jCG9GOJWT2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="images/youtube1.JPG"](https://www.youtube.com/embed/jCG9GOJWT2I)
 
 Machines capable of routing heavy material at many hundreds of inches per minute are common. 
-* Some machines use smaller tool holders MK2 (Morse taper #2 - on older machines), ISO-30, HSK-63 or the tools just get held in a collet tool holder affixed directly to the spindle nose. ISO-30 and HSK-63 are rapid-change tool holding systems. HSK-63 has begun to supplant the ISO-30 as the rapid change standard in recent years.
+Some machines use smaller tool holders MK2 (Morse taper #2 - on older machines), ISO-30, HSK-63 or the tools just get held in a collet tool holder affixed directly to the spindle nose. ISO-30 and HSK-63 are rapid-change tool holding systems. HSK-63 has begun to supplant the ISO-30 as the rapid change standard in recent years.
 A wood router is controlled in the same way as a metal mill, but there is a lot of CAM and CAD software like Artcam, Mastercam, Bobcad, and Featurecam specifically for wood routers.
 Wood with different grain must be approached with unique strategies, and wood CAM software is less likely to need to have hog-out strategies than the metal ones. Wood routers are frequently used to machine other soft materials such as plastics at high speed. Typical three-axis CNC wood routers are generally much bigger than their metal shop counterparts. 5' x 5', 4' x 8', and 5' x 10' are typical bed sizes for wood routers. But can be built to accommodate very large sizes up to, but not limited to 12' x 100'. Most table routers use a three motor drive system (xyz) utilizing either servo or stepper motors that drive the router motor via a gantry system. The gantry system isolates the XYZ movement in the top part of the machine with a stationary table holding the workpiece. Many CNC metal mills have the cutter motor moving on the Z axis, and a table which moves in X and Y for added stability.
 Many wood routers can run at machining speeds of 25 metres/min (linear) or faster with a few machines such as the Anderson capable of 40 metres/min, Onsrud capable of 86 metres/min.
