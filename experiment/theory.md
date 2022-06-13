@@ -195,6 +195,7 @@ A CNC wood router uses CNC (computer numerical control) and is similar to a meta
 
 <center><img src="images/img13.jpg" title="" /></center>
 <center><img src="images/img14.jpg" title="" /></center>
+
 [Youtube Reference Link - https://www.youtube.com/embed/jCG9GOJWT2I](https://www.youtube.com/embed/jCG9GOJWT2I)
 
 Machines capable of routing heavy material at many hundreds of inches per minute are common. 
